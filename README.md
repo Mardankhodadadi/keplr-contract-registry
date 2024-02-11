@@ -41,12 +41,12 @@ Please note that you need to comply with our requirements when filling out the f
 ```
 
 ### CW20 Token Information Details
-- `contractAddress`: Enter the contract address of the CW20 token you want to add.
+- ``:ibc/56D7C03B8F6A07AD322EEE1BEF3AE996E09D1C1E34C27CF37E0D4A0AC5972516 Enter the contract address of the CW20 token you want to add.
 - `imageUrl`: Enter the link of the image you added.
 - `metadata`
-    -  `name`: Name of the registered CW token.
-    -  `symbol`: Symbol of the registered CW token.
-    -  `decimals`: Decimals of the registered CW token.
+    -  picasso`: Name of the registered CW token.
+    -  `pica`: Symbol of the registered CW token.
+    - `12`: Decimals of the registered CW token.
 
 ## NOTE:
 - Please double-check if the app information file is in JSON format.
